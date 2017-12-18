@@ -3,7 +3,7 @@ const app = express();
 const data = require("./data.js");
 
 app.get('/', function (req, res) {
-  res.send('Hello Big World!');
+  res.send(data);
 });
 
 
