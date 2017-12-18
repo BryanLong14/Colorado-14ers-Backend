@@ -3,7 +3,7 @@ const app = express();
 const data = require("./data.js");
 
 app.get('/', function (req, res) {
-  res.send(data);
+  res.send("Listneing on Port 3000");
 });
 
 app.get('/data', function (req, res) {
