@@ -1,6 +1,9 @@
 const express = require('express');
 const app = express();
+const cors = require('cors');
 const data = require("./data.js");
+
+app.use(cors());
 
 app.get('/', function (req, res) {
   res.send("Listneing on Port 3000");
@@ -15,6 +18,6 @@ app.listen(process.env.PORT || 3000, () => {
   console.log('Example app listening on port 3000!');
 });
 
-module.exports= {
+module.exports = {
   data
 }
