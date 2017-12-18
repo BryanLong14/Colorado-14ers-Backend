@@ -6,6 +6,10 @@ app.get('/', function (req, res) {
   res.send(data);
 });
 
+app.get('/data', function (req, res) {
+  res.josn(data);
+});
+
 
 app.listen(process.env.PORT || 3000, () => {
   console.log('Example app listening on port 3000!');
