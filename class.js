@@ -442,7 +442,7 @@ let peakClass = [{
   "id": 56,
   "attributes": {
     "peak_name": "Mt. of the Holy Cross",
-    "class": 12
+    "class": 12,
     "standard_route": "North Ridge",
     "roundtrip_distance": 12
   }
