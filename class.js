@@ -1,4 +1,4 @@
-let class = [{
+let peakClass = [{
   "id": 1,
   "attributes": {
     "peak_name": "Mt. Elbert",
@@ -465,5 +465,5 @@ let class = [{
 }]
 
 module.exports = {
-  class
+  peakClass
 }
