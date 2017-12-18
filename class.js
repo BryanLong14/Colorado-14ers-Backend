@@ -464,8 +464,6 @@ let class = [{
   }
 }]
 
-
-
 module.exports = {
   class
 }
