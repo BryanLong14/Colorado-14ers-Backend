@@ -4,9 +4,9 @@ const data = require("./data.js");
 
 app.get('/', function (req, res) {
   res.send('Hello Big World!');
+  res.send(data);
 });
 
-console.log(data);
 
 app.listen(process.env.PORT || 3000, () => {
   console.log('Example app listening on port 3000!');
