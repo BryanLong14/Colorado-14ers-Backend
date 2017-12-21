@@ -6,7 +6,7 @@ let peakClass = [{
     "standard_route": "Northeast Ridge",
     "roundtrip_distance": 10,
     "difficulty": "easier",
-    "OfHike": "shorter"
+    "lengthOfHike": "shorter medium"
     // "distance":
   }
 }, {
@@ -17,7 +17,7 @@ let peakClass = [{
     "standard_route": "East Slopes",
     "roundtrip_distance": 15,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter"
   }
 }, {
   "id": 3,
@@ -27,7 +27,7 @@ let peakClass = [{
     "standard_route": "South Slopes",
     "roundtrip_distance": 14,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "medium"
   }
 }, {
   "id": 4,
