@@ -6,7 +6,7 @@ let peakClass = [{
     "standard_route": "Northeast Ridge",
     "roundtrip_distance": 10,
     "difficulty": "easier",
-    "lengthOfHike": "shorter medium"
+    "lengthOfHike": "shorter, medium"
     // "distance":
   }
 }, {
