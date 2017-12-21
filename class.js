@@ -21,8 +21,7 @@ let peakClass = [{
     "difficulty": "moderate",
     "lengthOfHike": "longer",
     "distance": "close",
-    "link": <a href="https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert">Route Link</a>
-
+    // "link": <a href="https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert">Route Link</a>
   }
 }, {
   "id": 3,
