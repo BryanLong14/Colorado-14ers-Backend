@@ -1,468 +1,527 @@
 let peakClass = [{
   "id": 1,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Elbert",
     "class": 1,
     "standard_route": "Northeast Ridge",
-    "roundtrip_distance": 10
+    "roundtrip_distance": 10,
+    "difficulty": "easier"
   }
 }, {
   "id": 2,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Massive",
     "class": 2,
     "standard_route": "East Slopes",
-    "roundtrip_distance": 15
+    "roundtrip_distance": 15,
+    "difficulty": "moderate"
   }
 }, {
   "id": 3,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Harvard",
     "class": 2,
     "standard_route": "South Slopes",
-    "roundtrip_distance": 14
+    "roundtrip_distance": 14,
+    "difficulty": "moderate"
   }
 }, {
   "id": 4,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Blanca Peak",
     "class": 2,
     "standard_route": "Northwest Ridge",
-    "roundtrip_distance": 17
+    "roundtrip_distance": 17,
+    "difficulty": "moderate"
   }
 }, {
   "id": 5,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "La Plata Peak",
     "class": 2,
     "standard_route": "Northwest Ridge",
-    "roundtrip_distance": 9
+    "roundtrip_distance": 9,
+    "difficulty": "moderate"
   }
 }, {
   "id": 6,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Uncompahgre Peak",
     "class": 2,
     "standard_route": "South Ridge",
-    "roundtrip_distance": 8
+    "roundtrip_distance": 8,
+    "difficulty": "moderate"
   }
 }, {
   "id": 7,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Crestone Peak",
     "class": 3,
     "standard_route": "South Face",
-    "roundtrip_distance": 14
+    "roundtrip_distance": 14,
+    "difficulty": "hard"
   }
 }, {
   "id": 8,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Lincoln",
     "class": 2,
     "standard_route": "West Ridge",
-    "roundtrip_distance": 6
+    "roundtrip_distance": 6,
+    "difficulty": "easier"
   }
 }, {
   "id": 9,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Grays Peak",
     "class": 1,
     "standard_route": "East Slopes",
-    "roundtrip_distance": 8
+    "roundtrip_distance": 8,
+    "difficulty": "easier"
   }
 }, {
   "id": 10,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Antero",
     "class": 2,
     "standard_route": "West Slopes",
-    "roundtrip_distance": 16
+    "roundtrip_distance": 16,
+    "difficulty": "moderate"
   }
 }, {
   "id": 11,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Torreys Peak",
     "class": 2,
     "standard_route": "South Slopes",
-    "roundtrip_distance": 8
+    "roundtrip_distance": 8,
+    "difficulty": "easier"
   }
 }, {
   "id": 12,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Castle Peak",
     "class": 2,
     "standard_route": "Northeast Ridge",
-    "roundtrip_distance": 14
+    "roundtrip_distance": 14,
+    "difficulty": "moderate"
   }
 }, {
   "id": 13,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Quandary Peak",
     "class": 1,
     "standard_route": "East Ridge",
-    "roundtrip_distance": 7
+    "roundtrip_distance": 7,
+    "difficulty": "easier"
   }
 }, {
   "id": 14,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Evans",
     "class": 2,
     "standard_route": "West Ridge",
-    "roundtrip_distance": 5
+    "roundtrip_distance": 5,
+    "difficulty": "easier"
   }
 }, {
   "id": 15,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Longs Peak",
     "class": 3,
     "standard_route": "Keyhole Route",
-    "roundtrip_distance": 15
+    "roundtrip_distance": 15,
+    "difficulty": "hard"
   }
 }, {
   "id": 16,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Wilson",
     "class": 4,
     "standard_route": "North Slopes",
-    "roundtrip_distance": 16
+    "roundtrip_distance": 16,
+    "difficulty": "hard"
   }
 }, {
   "id": 17,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Cameron",
     "class": 2,
     "standard_route": "Combo: Democrat, Cameron, Lincoln, Bross",
-    "roundtrip_distance": 7
+    "roundtrip_distance": 7,
+    "difficulty": "easier"
   }
 }, {
   "id": 18,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Shavano",
     "class": 9,
     "standard_route": "East Slopes",
-    "roundtrip_distance": 9
+    "roundtrip_distance": 9,
+    "difficulty": "moderate"
   }
 }, {
   "id": 19,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Belford",
     "class": 2,
     "standard_route": "Northwest Ridge",
-    "roundtrip_distance": 8
+    "roundtrip_distance": 8,
+    "difficulty": "moderate"
   }
 }, {
   "id": 20,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Crestone Needle",
     "class": 3,
     "standard_route": "South Face",
-    "roundtrip_distance": 12
+    "roundtrip_distance": 12,
+    "difficulty": "hard"
   }
 }, {
   "id": 21,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Princeton",
     "class": 2,
     "standard_route": "East Slopes",
-    "roundtrip_distance": 6
+    "roundtrip_distance": 6,
+    "difficulty": "moderate"
   }
 }, {
   "id": 22,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Yale",
     "class": 2,
     "standard_route": "Southwest Slopes",
-    "roundtrip_distance": 9
+    "roundtrip_distance": 9,
+    "difficulty": "moderate"
   }
 }, {
   "id": 23,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Bross",
     "class": 2,
     "standard_route": "Combo: Democrat, Cameron, Lincoln, Bross",
-    "roundtrip_distance": 7
+    "roundtrip_distance": 7,
+    "difficulty": "easier"
   }
 }, {
   "id": 24,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Kit Carson Peak",
     "class": 3,
     "standard_route": "From Challenger Point",
-    "roundtrip_distance": 14
+    "roundtrip_distance": 14,
+    "difficulty": "hard"
     }
 }, {
   "id": 25,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "El Diente Peak",
     "class": 3,
     "standard_route": "North Slopes",
-    "roundtrip_distance": 15
+    "roundtrip_distance": 15,
+    "difficulty": "hard"
   }
 }, {
   "id": 26,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Maroon Peak",
     "class": 3,
     "standard_route": "South Ridge",
-    "roundtrip_distance": 11
+    "roundtrip_distance": 11,
+    "difficulty": "hard"
     }
 }, {
   "id": 27,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Tabeguache Peak",
     "class": 2,
     "standard_route": "Via Shavano",
-    "roundtrip_distance": 11
+    "roundtrip_distance": 11,
+    "difficulty": "moderate"
     }
 }, {
   "id": 28,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Oxford",
     "class": 2,
     "standard_route": "Via Mt. Belford",
-    "roundtrip_distance": 11
+    "roundtrip_distance": 11,
+    "difficulty": "moderate"
     }
 }, {
   "id": 29,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Sneffels",
     "class": 3,
     "standard_route": "From Yankee Boy Basin",
-    "roundtrip_distance": 6
+    "roundtrip_distance": 6,
+    "difficulty": "moderate"
     }
 }, {
   "id": 30,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Democrat",
     "class": 2,
     "standard_route": "Combo: Democrat, Cameron, Lincoln, Bross",
-    "roundtrip_distance": 7
+    "roundtrip_distance": 7,
+    "difficulty": "easier"
     }
 }, {
   "id": 31,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Capitol Peak",
     "class": 4,
     "standard_route": "Northeast Ridge",
-    "roundtrip_distance": 17
+    "roundtrip_distance": 17,
+    "difficulty": "hard"
     }
 }, {
   "id": 32,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Pikes Peak",
     "class": 2,
     "standard_route": "Northwest Slopes",
-    "roundtrip_distance": 14
+    "roundtrip_distance": 14,
+    "difficulty": "easier"
     }
   }, {
   "id": 33,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Snowmass Mountain",
     "class": 3,
     "standard_route": "East Slopes",
-    "roundtrip_distance": 22
+    "roundtrip_distance": 22,
+    "difficulty": "hard"
     }
 }, {
   "id": 34,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Eolus",
     "class": 3,
     "standard_route": "Northeast Ridge",
-    "roundtrip_distance": 5
+    "roundtrip_distance": 5,
+    "difficulty": "hard"
     }
   }, {
   "id": 35,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Windom Peak",
     "class": 2,
     "standard_route": "West Ridge",
-    "roundtrip_distance": 5
+    "roundtrip_distance": 5,
+    "difficulty": "moderate"
     }
 }, {
   "id": 36,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Challenger Point",
     "class": 2,
     "standard_route": "North Slopes",
-    "roundtrip_distance": 12
+    "roundtrip_distance": 12,
+    "difficulty": "moderate"
     }
 }, {
   "id": 37,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Columbia",
     "class": 2,
     "standard_route": "West Slopes",
-    "roundtrip_distance": 11
+    "roundtrip_distance": 11,
+    "difficulty": "moderate"
     }
 }, {
   "id": 38,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Missouri Mountain",
     "class": 2,
     "standard_route": "Northwest Ridge",
-    "roundtrip_distance": 10
+    "roundtrip_distance": 10,
+    "difficulty": "moderate"
   }
 }, {
   "id": 39,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Humboldt Peak",
     "class": 2,
     "standard_route": "West Ridge",
-    "roundtrip_distance": 11
+    "roundtrip_distance": 11,
+    "difficulty": "moderate"
     }
 }, {
   "id": 40,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Bierstadt",
     "class": 2,
     "standard_route": "West Slopes",
-    "roundtrip_distance": 7
+    "roundtrip_distance": 7,
+    "difficulty": "easier"
   }
 }, {
   "id": 41,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Conundrum Peak",
     "class": 2,
     "standard_route": "Via Castle",
-    "roundtrip_distance": 14
+    "roundtrip_distance": 14,
+    "difficulty": "moderate"
     }
 }, {
   "id": 42,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Sunlight Peak",
     "class": 4,
     "standard_route": "South Face",
-    "roundtrip_distance": 5
+    "roundtrip_distance": 5,
+    "difficulty": "hard"
     }
 }, {
   "id": 43,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Handie Peak",
     "class": 1,
     "standard_route": "Southwest Slopes",
-    "roundtrip_distance": 6
+    "roundtrip_distance": 6,
+    "difficulty": "easier"
     }
   }, {
   "id": 44,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Culebra Peak",
     "class": 2,
     "standard_route": "Northwest Ridge",
-    "roundtrip_distance": 5
+    "roundtrip_distance": 5,
+    "difficulty": "easier"
     }
   }, {
   "id": 45,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Ellingwood Point",
     "class": 2,
     "standard_route": "South Face",
-    "roundtrip_distance": 17
+    "roundtrip_distance": 17,
+    "difficulty": "moderate"
   }
 }, {
   "id": 46,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Lindsey",
     "class": 3,
     "standard_route": "North Face",
-    "roundtrip_distance": 8
+    "roundtrip_distance": 8,
+    "difficulty": "hard"
     }
   }, {
   "id": 47,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "North Eolus",
     "class": 3,
     "standard_route": "Northeast Ridge",
-    "roundtrip_distance": 5
+    "roundtrip_distance": 5,
+    "difficulty": "hard"
   }
 }, {
   "id": 48,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Little Bear Peak",
     "class": 4,
     "standard_route": "West Ridge",
-    "roundtrip_distance": 14
+    "roundtrip_distance": 14,
+    "difficulty": "hard"
     }
   }, {
   "id": 49,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. Sherman",
     "class": 2,
     "standard_route": "Southwest Ridge",
-    "roundtrip_distance": 5
+    "roundtrip_distance": 5,
+    "difficulty": "easier"
   }
 }, {
   "id": 50,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Redcloud Peak",
     "class": 2,
     "standard_route": "Northeast Ridge",
-    "roundtrip_distance": 5
+    "roundtrip_distance": 5,
+    "difficulty": "moderate"
   }
 }, {
   "id": 51,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Pyramid Peak",
     "class": 4,
     "standard_route": "Northeast Ridge",
-    "roundtrip_distance": 8
+    "roundtrip_distance": 8,
+    "difficulty": "hard"
   }
 }, {
   "id": 52,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Wilson Peak",
     "class": 4,
     "standard_route": "North Slopes",
-    "roundtrip_distance": 16
+    "roundtrip_distance": 16,
+    "difficulty": "hard"
   }
 }, {
   "id": 53,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Wetterhorn Peak",
     "class": 3,
     "standard_route": "Southwest Ridge",
-    "roundtrip_distance": 7
+    "roundtrip_distance": 7,
+    "difficulty": "hard"
   }
 }, {
   "id": 54,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "San Luis Peak",
     "class": 1,
     "standard_route": "Northeast Ridge",
-    "roundtrip_distance": 14
+    "roundtrip_distance": 14,
+    "difficulty": "easier"
   }
 }, {
   "id": 55,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "North Maroon Peak",
     "class": 4,
     "standard_route": "Northeast Ridge",
-    "roundtrip_distance": 8
+    "roundtrip_distance": 8,
+    "difficulty": "hard"
   }
 }, {
   "id": 56,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Mt. of the Holy Cross",
-    "class": 12,
+    "class": 2,
     "standard_route": "North Ridge",
-    "roundtrip_distance": 12
+    "roundtrip_distance": 12,
+    "difficulty": "moderate"
   }
 }, {
   "id": 57,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Huron Peak",
     "class": 2,
     "standard_route": "Northwest Slopes",
-    "roundtrip_distance": 6
+    "roundtrip_distance": 6,
+    "difficulty": "new_attributes"
   }
 }, {
   "id": 58,
-  "attributes": {
+  "new_attributes": {
     "peak_name": "Sunshine Peak",
     "class": 2,
     "standard_route": "From Redcloud",
-    "roundtrip_distance": 12
+    "roundtrip_distance": 12,
+    "difficulty": "moderate"
   }
-}]
+}
+]
 
 module.exports = {
   peakClass

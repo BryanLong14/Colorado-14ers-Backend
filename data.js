@@ -1,5 +1,4 @@
 let data = [{
-  "type": "peak",
   "id": 1,
   "attributes": {
     "peak_name": "Mt. Elbert",
@@ -11,7 +10,6 @@ let data = [{
     "longitude": "-106.44472222222223"
   }
 }, {
-  "type": "peak",
   "id": 2,
   "attributes": {
     "peak_name": "Mt. Massive",
@@ -23,7 +21,6 @@ let data = [{
     "longitude": "-106.47472222222223"
   }
 }, {
-  "type": "peak",
   "id": 3,
   "attributes": {
     "peak_name": "Mt. Harvard",
@@ -35,7 +32,6 @@ let data = [{
     "longitude": "-106.32"
   }
 }, {
-  "type": "peak",
   "id": 4,
   "attributes": {
     "peak_name": "Blanca Peak",
@@ -47,7 +43,6 @@ let data = [{
     "longitude": "-105.48527777777778"
   }
 }, {
-  "type": "peak",
   "id": 5,
   "attributes": {
     "peak_name": "La Plata Peak",
@@ -59,7 +54,6 @@ let data = [{
     "longitude": "-106.4725"
   }
 }, {
-  "type": "peak",
   "id": 6,
   "attributes": {
     "peak_name": "Uncompahgre Peak",
@@ -71,7 +65,6 @@ let data = [{
     "longitude": "-107.46138888888889"
   }
 }, {
-  "type": "peak",
   "id": 7,
   "attributes": {
     "peak_name": "Crestone Peak",
@@ -83,7 +76,6 @@ let data = [{
     "longitude": "-105.58472222222221"
   }
 }, {
-  "type": "peak",
   "id": 8,
   "attributes": {
     "peak_name": "Mt. Lincoln",
@@ -95,7 +87,6 @@ let data = [{
     "longitude": "-106.11083333333333"
   }
 }, {
-  "type": "peak",
   "id": 9,
   "attributes": {
     "peak_name": "Grays Peak",
@@ -107,7 +98,6 @@ let data = [{
     "longitude": "-105.81694444444445"
   }
 }, {
-  "type": "peak",
   "id": 10,
   "attributes": {
     "peak_name": "Mt. Antero",
@@ -119,7 +109,6 @@ let data = [{
     "longitude": "-106.2461111111111"
   }
 }, {
-  "type": "peak",
   "id": 11,
   "attributes": {
     "peak_name": "Torreys Peak",
@@ -131,7 +120,6 @@ let data = [{
     "longitude": "-105.82083333333333"
   }
 }, {
-  "type": "peak",
   "id": 12,
   "attributes": {
     "peak_name": "Castle Peak",
@@ -143,7 +131,6 @@ let data = [{
     "longitude": "-106.86138888888888"
   }
 }, {
-  "type": "peak",
   "id": 13,
   "attributes": {
     "peak_name": "Quandary Peak",
@@ -155,7 +142,6 @@ let data = [{
     "longitude": "-106.10583333333332"
   }
 }, {
-  "type": "peak",
   "id": 14,
   "attributes": {
     "peak_name": "Mt. Evans",
@@ -167,7 +153,6 @@ let data = [{
     "longitude": "-105.64277777777778"
   }
 }, {
-  "type": "peak",
   "id": 15,
   "attributes": {
     "peak_name": "Longs Peak",
@@ -179,7 +164,6 @@ let data = [{
     "longitude": "-105.61527777777778"
   }
 }, {
-  "type": "peak",
   "id": 16,
   "attributes": {
     "peak_name": "Mt. Wilson",
@@ -191,7 +175,6 @@ let data = [{
     "longitude": "-107.99083333333333"
   }
 }, {
-  "type": "peak",
   "id": 17,
   "attributes": {
     "peak_name": "Mt. Cameron",
@@ -203,7 +186,6 @@ let data = [{
     "longitude": "-106.11861111111111"
   }
 }, {
-  "type": "peak",
   "id": 18,
   "attributes": {
     "peak_name": "Mt. Shavano",
@@ -215,7 +197,6 @@ let data = [{
     "longitude": "-106.23944444444444"
   }
 }, {
-  "type": "peak",
   "id": 19,
   "attributes": {
     "peak_name": "Mt. Belford",
@@ -227,7 +208,6 @@ let data = [{
     "longitude": "-106.36055555555555"
   }
 }, {
-  "type": "peak",
   "id": 20,
   "attributes": {
     "peak_name": "Crestone Needle",
@@ -239,7 +219,6 @@ let data = [{
     "longitude": "-105.5761111111111"
   }
 }, {
-  "type": "peak",
   "id": 21,
   "attributes": {
     "peak_name": "Mt. Princeton",
@@ -251,7 +230,6 @@ let data = [{
     "longitude": "-106.24194444444444"
   }
 }, {
-  "type": "peak",
   "id": 22,
   "attributes": {
     "peak_name": "Mt. Yale",
@@ -263,7 +241,6 @@ let data = [{
     "longitude": "-106.31333333333333"
   }
 }, {
-  "type": "peak",
   "id": 23,
   "attributes": {
     "peak_name": "Mt. Bross",
@@ -275,7 +252,6 @@ let data = [{
     "longitude": "-106.10694444444444"
   }
 }, {
-  "type": "peak",
   "id": 24,
   "attributes": {
     "peak_name": "Kit Carson Peak",
@@ -287,7 +263,6 @@ let data = [{
     "longitude": "-105.60194444444444"
   }
 }, {
-  "type": "peak",
   "id": 25,
   "attributes": {
     "peak_name": "El Diente Peak",
@@ -299,7 +274,6 @@ let data = [{
     "longitude": "-108.00527777777778"
   }
 }, {
-  "type": "peak",
   "id": 26,
   "attributes": {
     "peak_name": "Maroon Peak",
@@ -311,7 +285,6 @@ let data = [{
     "longitude": "-106.98861111111111"
   }
 }, {
-  "type": "peak",
   "id": 27,
   "attributes": {
     "peak_name": "Tabeguache Peak",
@@ -323,7 +296,6 @@ let data = [{
     "longitude": "-106.25055555555555"
   }
 }, {
-  "type": "peak",
   "id": 28,
   "attributes": {
     "peak_name": "Mt. Oxford",
@@ -335,7 +307,6 @@ let data = [{
     "longitude": "-106.33833333333332"
   }
 }, {
-  "type": "peak",
   "id": 29,
   "attributes": {
     "peak_name": "Mt. Sneffels",
@@ -347,7 +318,6 @@ let data = [{
     "longitude": "-107.79166666666667"
   }
 }, {
-  "type": "peak",
   "id": 30,
   "attributes": {
     "peak_name": "Mt. Democrat",
@@ -359,7 +329,6 @@ let data = [{
     "longitude": "-106.13944444444445"
   }
 }, {
-  "type": "peak",
   "id": 31,
   "attributes": {
     "peak_name": "Capitol Peak",
@@ -371,7 +340,6 @@ let data = [{
     "longitude": "-107.0825"
   }
 }, {
-  "type": "peak",
   "id": 32,
   "attributes": {
     "peak_name": "Pikes Peak",
@@ -383,7 +351,6 @@ let data = [{
     "longitude": "-105.04388888888889"
   }
 }, {
-  "type": "peak",
   "id": 33,
   "attributes": {
     "peak_name": "Snowmass Mountain",
@@ -395,7 +362,6 @@ let data = [{
     "longitude": "-107.06583333333333"
   }
 }, {
-  "type": "peak",
   "id": 34,
   "attributes": {
     "peak_name": "Mt. Eolus",
@@ -407,7 +373,6 @@ let data = [{
     "longitude": "-107.62083333333332"
   }
 }, {
-  "type": "peak",
   "id": 35,
   "attributes": {
     "peak_name": "Windom Peak",
@@ -419,7 +384,6 @@ let data = [{
     "longitude": "-107.59138888888889"
   }
 }, {
-  "type": "peak",
   "id": 36,
   "attributes": {
     "peak_name": "Challenger Point",
@@ -431,7 +395,6 @@ let data = [{
     "longitude": "-105.6061111111111"
   }
 }, {
-  "type": "peak",
   "id": 37,
   "attributes": {
     "peak_name": "Mt. Columbia",
@@ -443,7 +406,6 @@ let data = [{
     "longitude": "-106.29694444444445"
   }
 }, {
-  "type": "peak",
   "id": 38,
   "attributes": {
     "peak_name": "Missouri Mountain",
@@ -455,7 +417,6 @@ let data = [{
     "longitude": "-106.37777777777777"
   }
 }, {
-  "type": "peak",
   "id": 39,
   "attributes": {
     "peak_name": "Humboldt Peak",
@@ -467,7 +428,6 @@ let data = [{
     "longitude": "-105.55472222222222"
   }
 }, {
-  "type": "peak",
   "id": 40,
   "attributes": {
     "peak_name": "Mt. Bierstadt",
@@ -479,7 +439,6 @@ let data = [{
     "longitude": "-105.66805555555555"
   }
 }, {
-  "type": "peak",
   "id": 41,
   "attributes": {
     "peak_name": "Conundrum Peak",
@@ -491,7 +450,6 @@ let data = [{
     "longitude": "-106.86388888888888"
   }
 }, {
-  "type": "peak",
   "id": 42,
   "attributes": {
     "peak_name": "Sunlight Peak",
@@ -503,7 +461,6 @@ let data = [{
     "longitude": "-107.59527777777777"
   }
 }, {
-  "type": "peak",
   "id": 43,
   "attributes": {
     "peak_name": "Handie Peak",
@@ -515,7 +472,6 @@ let data = [{
     "longitude": "-107.5038888888889"
   }
 }, {
-  "type": "peak",
   "id": 44,
   "attributes": {
     "peak_name": "Culebra Peak",
@@ -527,7 +483,6 @@ let data = [{
     "longitude": "-105.185"
   }
 }, {
-  "type": "peak",
   "id": 45,
   "attributes": {
     "peak_name": "Ellingwood Point",
@@ -539,7 +494,6 @@ let data = [{
     "longitude": "-105.49194444444444"
   }
 }, {
-  "type": "peak",
   "id": 46,
   "attributes": {
     "peak_name": "Mt. Lindsey",
@@ -551,7 +505,6 @@ let data = [{
     "longitude": "-105.44027777777778"
   }
 }, {
-  "type": "peak",
   "id": 47,
   "attributes": {
     "peak_name": "North Eolus",
@@ -563,7 +516,6 @@ let data = [{
     "longitude": "-107.6211111111111"
   }
 }, {
-  "type": "peak",
   "id": 48,
   "attributes": {
     "peak_name": "Little Bear Peak",
@@ -575,7 +527,6 @@ let data = [{
     "longitude": "-105.49666666666667"
   }
 }, {
-  "type": "peak",
   "id": 49,
   "attributes": {
     "peak_name": "Mt. Sherman",
@@ -587,7 +538,6 @@ let data = [{
     "longitude": "-106.16916666666667"
   }
 }, {
-  "type": "peak",
   "id": 50,
   "attributes": {
     "peak_name": "Redcloud Peak",
@@ -599,7 +549,6 @@ let data = [{
     "longitude": "-107.4213888888889"
   }
 }, {
-  "type": "peak",
   "id": 51,
   "attributes": {
     "peak_name": "Pyramid Peak",
@@ -611,7 +560,6 @@ let data = [{
     "longitude": "-106.94972222222222"
   }
 }, {
-  "type": "peak",
   "id": 52,
   "attributes": {
     "peak_name": "Wilson Peak",
@@ -623,7 +571,6 @@ let data = [{
     "longitude": "-107.98416666666667"
   }
 }, {
-  "type": "peak",
   "id": 53,
   "attributes": {
     "peak_name": "Wetterhorn Peak",
@@ -635,7 +582,6 @@ let data = [{
     "longitude": "-107.51027777777777"
   }
 }, {
-  "type": "peak",
   "id": 54,
   "attributes": {
     "peak_name": "San Luis Peak",
@@ -647,7 +593,6 @@ let data = [{
     "longitude": "-106.93083333333334"
   }
 }, {
-  "type": "peak",
   "id": 55,
   "attributes": {
     "peak_name": "North Maroon Peak",
@@ -659,7 +604,6 @@ let data = [{
     "longitude": "-106.98722222222223"
   }
 }, {
-  "type": "peak",
   "id": 56,
   "attributes": {
     "peak_name": "Mt. of the Holy Cross",
@@ -671,7 +615,6 @@ let data = [{
     "longitude": "-106.47916666666667"
   }
 }, {
-  "type": "peak",
   "id": 57,
   "attributes": {
     "peak_name": "Huron Peak",
@@ -683,7 +626,6 @@ let data = [{
     "longitude": "-106.4375"
   }
 }, {
-  "type": "peak",
   "id": 58,
   "attributes": {
     "peak_name": "Sunshine Peak",
@@ -694,7 +636,8 @@ let data = [{
     "latitude": "37.922777777777775",
     "longitude": "-107.42500000000001"
   }
-}]
+}
+]
 
 module.exports = {
   data
