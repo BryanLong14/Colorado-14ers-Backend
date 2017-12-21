@@ -7,7 +7,7 @@ let peakClass = [{
     "roundtrip_distance": 10,
     "difficulty": "easier",
     "OfHike": "shorter"
-    "distance":
+    // "distance":
   }
 }, {
   "id": 2,
