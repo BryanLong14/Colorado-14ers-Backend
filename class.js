@@ -6,9 +6,8 @@ let peakClass = [{
     "standard_route": "Northeast Ridge",
     "roundtrip_distance": 10,
     "difficulty": "easier",
-    "lengthOfHike": "shorter",
-    "lengthOfHike2": "medium"
-    // "distance":
+    "lengthOfHike": "medium",
+    "distance": "close"
   }
 }, {
   "id": 2,
@@ -18,7 +17,8 @@ let peakClass = [{
     "standard_route": "East Slopes",
     "roundtrip_distance": 15,
     "difficulty": "moderate",
-    "lengthOfHike": "shorter"
+    "lengthOfHike": "longer",
+    "distance": "close"
   }
 }, {
   "id": 3,
@@ -28,7 +28,9 @@ let peakClass = [{
     "standard_route": "South Slopes",
     "roundtrip_distance": 14,
     "difficulty": "moderate",
-    "lengthOfHike": "medium"
+    "lengthOfHike": "medium",
+    "lengthOfHike2": "longer",
+    "distance": "close"
   }
 }, {
   "id": 4,
@@ -38,7 +40,8 @@ let peakClass = [{
     "standard_route": "Northwest Ridge",
     "roundtrip_distance": 17,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "close"
   }
 }, {
   "id": 5,
@@ -48,7 +51,8 @@ let peakClass = [{
     "standard_route": "Northwest Ridge",
     "roundtrip_distance": 9,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "medium",
+    "distance": "close"
   }
 }, {
   "id": 6,
@@ -58,7 +62,9 @@ let peakClass = [{
     "standard_route": "South Ridge",
     "roundtrip_distance": 8,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "lengthOfHike2": "medium",
+    "distance": "far"
   }
 }, {
   "id": 7,
@@ -68,7 +74,8 @@ let peakClass = [{
     "standard_route": "South Face",
     "roundtrip_distance": 14,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "close"
   }
 }, {
   "id": 8,
@@ -78,7 +85,8 @@ let peakClass = [{
     "standard_route": "West Ridge",
     "roundtrip_distance": 6,
     "difficulty": "easier",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "distance": "close"
   }
 }, {
   "id": 9,
@@ -88,7 +96,9 @@ let peakClass = [{
     "standard_route": "East Slopes",
     "roundtrip_distance": 8,
     "difficulty": "easier",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "lengthOfHike2": "medium",
+    "distance": "close"
   }
 }, {
   "id": 10,
@@ -98,7 +108,8 @@ let peakClass = [{
     "standard_route": "West Slopes",
     "roundtrip_distance": 16,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "close"
   }
 }, {
   "id": 11,
@@ -108,7 +119,9 @@ let peakClass = [{
     "standard_route": "South Slopes",
     "roundtrip_distance": 8,
     "difficulty": "easier",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "lengthOfHike2": "medium",
+    "distance": "close"
   }
 }, {
   "id": 12,
@@ -118,7 +131,8 @@ let peakClass = [{
     "standard_route": "Northeast Ridge",
     "roundtrip_distance": 14,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "far"
   }
 }, {
   "id": 13,
@@ -128,7 +142,8 @@ let peakClass = [{
     "standard_route": "East Ridge",
     "roundtrip_distance": 7,
     "difficulty": "easier",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "distance": "close"
   }
 }, {
   "id": 14,
@@ -138,7 +153,8 @@ let peakClass = [{
     "standard_route": "West Ridge",
     "roundtrip_distance": 5,
     "difficulty": "easier",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "distance": "close"
   }
 }, {
   "id": 15,
@@ -148,7 +164,8 @@ let peakClass = [{
     "standard_route": "Keyhole Route",
     "roundtrip_distance": 15,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "close"
   }
 }, {
   "id": 16,
@@ -158,7 +175,8 @@ let peakClass = [{
     "standard_route": "North Slopes",
     "roundtrip_distance": 16,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "far"
   }
 }, {
   "id": 17,
@@ -168,7 +186,8 @@ let peakClass = [{
     "standard_route": "Combo: Democrat, Cameron, Lincoln, Bross",
     "roundtrip_distance": 7,
     "difficulty": "easier",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "distance": "close"
   }
 }, {
   "id": 18,
@@ -178,7 +197,8 @@ let peakClass = [{
     "standard_route": "East Slopes",
     "roundtrip_distance": 9,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "medium",
+    "distance": "close"
   }
 }, {
   "id": 19,
@@ -188,7 +208,9 @@ let peakClass = [{
     "standard_route": "Northwest Ridge",
     "roundtrip_distance": 8,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "lengthOfHike2": "medium",
+    "distance": "close"
   }
 }, {
   "id": 20,
@@ -198,7 +220,9 @@ let peakClass = [{
     "standard_route": "South Face",
     "roundtrip_distance": 12,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "lengthOfHike2": "medium",
+    "distance": "close"
   }
 }, {
   "id": 21,
@@ -208,7 +232,8 @@ let peakClass = [{
     "standard_route": "East Slopes",
     "roundtrip_distance": 6,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "distance": "close"
   }
 }, {
   "id": 22,
@@ -218,7 +243,8 @@ let peakClass = [{
     "standard_route": "Southwest Slopes",
     "roundtrip_distance": 9,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "medium",
+    "distance": "close"
   }
 }, {
   "id": 23,
@@ -228,7 +254,8 @@ let peakClass = [{
     "standard_route": "Combo: Democrat, Cameron, Lincoln, Bross",
     "roundtrip_distance": 7,
     "difficulty": "easier",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "distance": "close"
   }
 }, {
   "id": 24,
@@ -238,7 +265,9 @@ let peakClass = [{
     "standard_route": "From Challenger Point",
     "roundtrip_distance": 14,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "lengthOfHike2": "medium",
+    "distance": "far"
     }
 }, {
   "id": 25,
@@ -248,7 +277,8 @@ let peakClass = [{
     "standard_route": "North Slopes",
     "roundtrip_distance": 15,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "far"
   }
 }, {
   "id": 26,
@@ -268,7 +298,8 @@ let peakClass = [{
     "standard_route": "Via Shavano",
     "roundtrip_distance": 11,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "medium",
+    "distance": "close"
     }
 }, {
   "id": 28,
@@ -278,7 +309,8 @@ let peakClass = [{
     "standard_route": "Via Mt. Belford",
     "roundtrip_distance": 11,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "medium",
+    "distance": "close"
     }
 }, {
   "id": 29,
@@ -288,7 +320,8 @@ let peakClass = [{
     "standard_route": "From Yankee Boy Basin",
     "roundtrip_distance": 6,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "distance": "far"
     }
 }, {
   "id": 30,
@@ -298,7 +331,8 @@ let peakClass = [{
     "standard_route": "Combo: Democrat, Cameron, Lincoln, Bross",
     "roundtrip_distance": 7,
     "difficulty": "easier",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "distance": "close"
     }
 }, {
   "id": 31,
@@ -308,7 +342,8 @@ let peakClass = [{
     "standard_route": "Northeast Ridge",
     "roundtrip_distance": 17,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "far"
     }
 }, {
   "id": 32,
@@ -318,7 +353,9 @@ let peakClass = [{
     "standard_route": "Northwest Slopes",
     "roundtrip_distance": 14,
     "difficulty": "easier",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "lengthOfHike2": "medium",
+    "distance": "close"
     }
   }, {
   "id": 33,
@@ -328,7 +365,8 @@ let peakClass = [{
     "standard_route": "East Slopes",
     "roundtrip_distance": 22,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "far"
     }
 }, {
   "id": 34,
@@ -336,9 +374,10 @@ let peakClass = [{
     "peak_name": "Mt. Eolus",
     "class": 3,
     "standard_route": "Northeast Ridge",
-    "roundtrip_distance": 5,
+    "roundtrip_distance": 17,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "far"
     }
   }, {
   "id": 35,
@@ -346,9 +385,10 @@ let peakClass = [{
     "peak_name": "Windom Peak",
     "class": 2,
     "standard_route": "West Ridge",
-    "roundtrip_distance": 5,
+    "roundtrip_distance": 17,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "far"
     }
 }, {
   "id": 36,
@@ -358,7 +398,8 @@ let peakClass = [{
     "standard_route": "North Slopes",
     "roundtrip_distance": 12,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "medium",
+    "distance": "far"
     }
 }, {
   "id": 37,
@@ -368,7 +409,8 @@ let peakClass = [{
     "standard_route": "West Slopes",
     "roundtrip_distance": 11,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "medium",
+    "distance": "close"
     }
 }, {
   "id": 38,
@@ -378,7 +420,8 @@ let peakClass = [{
     "standard_route": "Northwest Ridge",
     "roundtrip_distance": 10,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "medium",
+    "distance": "close"
   }
 }, {
   "id": 39,
@@ -388,7 +431,8 @@ let peakClass = [{
     "standard_route": "West Ridge",
     "roundtrip_distance": 11,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "medium",
+    "distance": "close"
     }
 }, {
   "id": 40,
@@ -398,7 +442,8 @@ let peakClass = [{
     "standard_route": "West Slopes",
     "roundtrip_distance": 7,
     "difficulty": "easier",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "distance": "close"
   }
 }, {
   "id": 41,
@@ -408,7 +453,8 @@ let peakClass = [{
     "standard_route": "Via Castle",
     "roundtrip_distance": 14,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "far"
     }
 }, {
   "id": 42,
@@ -416,9 +462,10 @@ let peakClass = [{
     "peak_name": "Sunlight Peak",
     "class": 4,
     "standard_route": "South Face",
-    "roundtrip_distance": 5,
+    "roundtrip_distance": 17,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "far"
     }
 }, {
   "id": 43,
@@ -428,7 +475,8 @@ let peakClass = [{
     "standard_route": "Southwest Slopes",
     "roundtrip_distance": 6,
     "difficulty": "easier",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "distance": "far"
     }
   }, {
   "id": 44,
@@ -438,7 +486,8 @@ let peakClass = [{
     "standard_route": "Northwest Ridge",
     "roundtrip_distance": 5,
     "difficulty": "easier",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "distance": "far"
     }
   }, {
   "id": 45,
@@ -448,7 +497,8 @@ let peakClass = [{
     "standard_route": "South Face",
     "roundtrip_distance": 17,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "close"
   }
 }, {
   "id": 46,
@@ -458,7 +508,9 @@ let peakClass = [{
     "standard_route": "North Face",
     "roundtrip_distance": 8,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "lengthOfHike2": "medium",
+    "distance": "close"
     }
   }, {
   "id": 47,
@@ -466,9 +518,10 @@ let peakClass = [{
     "peak_name": "North Eolus",
     "class": 3,
     "standard_route": "Northeast Ridge",
-    "roundtrip_distance": 5,
+    "roundtrip_distance": 17,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "far"
   }
 }, {
   "id": 48,
@@ -478,7 +531,8 @@ let peakClass = [{
     "standard_route": "West Ridge",
     "roundtrip_distance": 14,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "close"
     }
   }, {
   "id": 49,
@@ -488,7 +542,8 @@ let peakClass = [{
     "standard_route": "Southwest Ridge",
     "roundtrip_distance": 5,
     "difficulty": "easier",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "distance": "close"
   }
 }, {
   "id": 50,
@@ -498,7 +553,8 @@ let peakClass = [{
     "standard_route": "Northeast Ridge",
     "roundtrip_distance": 5,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "distance": "far"
   }
 }, {
   "id": 51,
@@ -508,7 +564,9 @@ let peakClass = [{
     "standard_route": "Northeast Ridge",
     "roundtrip_distance": 8,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "medium",
+    "lengthOfHik2": "shorter",
+    "distance": "far"
   }
 }, {
   "id": 52,
@@ -518,7 +576,8 @@ let peakClass = [{
     "standard_route": "North Slopes",
     "roundtrip_distance": 16,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "far"
   }
 }, {
   "id": 53,
@@ -528,7 +587,8 @@ let peakClass = [{
     "standard_route": "Southwest Ridge",
     "roundtrip_distance": 7,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "distance": "far"
   }
 }, {
   "id": 54,
@@ -538,7 +598,8 @@ let peakClass = [{
     "standard_route": "Northeast Ridge",
     "roundtrip_distance": 14,
     "difficulty": "easier",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance": "close"
   }
 }, {
   "id": 55,
@@ -548,7 +609,9 @@ let peakClass = [{
     "standard_route": "Northeast Ridge",
     "roundtrip_distance": 8,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "shorter",
+    "lengthOfHike2": "medium",
+    "distance": "far"
   }
 }, {
   "id": 56,
@@ -558,7 +621,9 @@ let peakClass = [{
     "standard_route": "North Ridge",
     "roundtrip_distance": 12,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "lengthOfHike2": "medium",
+    "distance": "close"
   }
 }, {
   "id": 57,
@@ -567,8 +632,9 @@ let peakClass = [{
     "class": 2,
     "standard_route": "Northwest Slopes",
     "roundtrip_distance": 6,
-    "difficulty": "new_attributes",
-    "lengthOfHike": "longer"
+    "difficulty": "easier",
+    "lengthOfHike": "shorter",
+    "distance": "close"
   }
 }, {
   "id": 58,
@@ -578,7 +644,9 @@ let peakClass = [{
     "standard_route": "From Redcloud",
     "roundtrip_distance": 12,
     "difficulty": "moderate",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "lengthOfHike2": "medium",
+    "distance": "far"
   }
 }
 ]
