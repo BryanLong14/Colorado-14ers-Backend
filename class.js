@@ -7,7 +7,8 @@ let peakClass = [{
     "roundtrip_distance": 10,
     "difficulty": "easier",
     "lengthOfHike": "medium",
-    "distance": "close"
+    "distance": "close",
+    "distance2": "far"
   }
 }, {
   "id": 2,
@@ -41,7 +42,8 @@ let peakClass = [{
     "roundtrip_distance": 17,
     "difficulty": "moderate",
     "lengthOfHike": "longer",
-    "distance": "close"
+    "distance": "close",
+    "distance2": "Far"
   }
 }, {
   "id": 5,
@@ -75,7 +77,8 @@ let peakClass = [{
     "roundtrip_distance": 14,
     "difficulty": "hard",
     "lengthOfHike": "longer",
-    "distance": "close"
+    "distance": "close",
+    "distance2": "far"
   }
 }, {
   "id": 8,
@@ -132,7 +135,9 @@ let peakClass = [{
     "roundtrip_distance": 14,
     "difficulty": "moderate",
     "lengthOfHike": "longer",
-    "distance": "far"
+    "distance": "far",
+    "distance2": "close"
+
   }
 }, {
   "id": 13,
@@ -222,7 +227,8 @@ let peakClass = [{
     "difficulty": "hard",
     "lengthOfHike": "longer",
     "lengthOfHike2": "medium",
-    "distance": "close"
+    "distance": "close",
+    "distance2": "far"
   }
 }, {
   "id": 21,
@@ -288,7 +294,8 @@ let peakClass = [{
     "standard_route": "South Ridge",
     "roundtrip_distance": 11,
     "difficulty": "hard",
-    "lengthOfHike": "longer"
+    "lengthOfHike": "longer",
+    "distance2": "close"
     }
 }, {
   "id": 27,
@@ -343,7 +350,8 @@ let peakClass = [{
     "roundtrip_distance": 17,
     "difficulty": "hard",
     "lengthOfHike": "longer",
-    "distance": "far"
+    "distance": "far",
+    "distance2": "close"
     }
 }, {
   "id": 32,
@@ -366,7 +374,8 @@ let peakClass = [{
     "roundtrip_distance": 22,
     "difficulty": "hard",
     "lengthOfHike": "longer",
-    "distance": "far"
+    "distance": "far",
+    "distance2": "close"
     }
 }, {
   "id": 34,
@@ -454,7 +463,8 @@ let peakClass = [{
     "roundtrip_distance": 14,
     "difficulty": "moderate",
     "lengthOfHike": "longer",
-    "distance": "far"
+    "distance": "far",
+    "distance2": "close"
     }
 }, {
   "id": 42,
@@ -566,7 +576,8 @@ let peakClass = [{
     "difficulty": "hard",
     "lengthOfHike": "medium",
     "lengthOfHik2": "shorter",
-    "distance": "far"
+    "distance": "far",
+    "distance2": "close"
   }
 }, {
   "id": 52,
@@ -611,7 +622,8 @@ let peakClass = [{
     "difficulty": "hard",
     "lengthOfHike": "shorter",
     "lengthOfHike2": "medium",
-    "distance": "far"
+    "distance": "far",
+    "distance2": "close"
   }
 }, {
   "id": 56,
