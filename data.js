@@ -179,7 +179,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Cameron",
     "range": "Mosquito Range",
-    "rank": "0",
+    "rank": "16",
     "elevation": "14238",
     "towns": "Alma, Fairplay, Breckenridge",
     "latitude": "39.346944444444446",
@@ -267,7 +267,7 @@ let data = [{
   "attributes": {
     "peak_name": "El Diente Peak",
     "range": "San Juan Mountains",
-    "rank": "0",
+    "rank": "23",
     "elevation": "14159",
     "towns": "Ouray, Telluride, Rico",
     "latitude": "37.839444444444446",
@@ -443,7 +443,7 @@ let data = [{
   "attributes": {
     "peak_name": "Conundrum Peak",
     "range": "Elk Mountains",
-    "rank": "0",
+    "rank": "38",
     "elevation": "14060",
     "towns": "Ashcroft, Crested Butte, Aspen",
     "latitude": "39.01444444444444",
@@ -509,7 +509,7 @@ let data = [{
   "attributes": {
     "peak_name": "North Eolus",
     "range": "San Juan Mountains",
-    "rank": "0",
+    "rank": "43",
     "elevation": "14039",
     "towns": "Silverton, Ouray",
     "latitude": "37.625277777777775",
@@ -597,7 +597,7 @@ let data = [{
   "attributes": {
     "peak_name": "North Maroon Peak",
     "range": "Elk Mountains",
-    "rank": "0",
+    "rank": "50",
     "elevation": "14014",
     "towns": "Aspen, Snowmass",
     "latitude": "39.07611111111112",
