@@ -21,7 +21,7 @@ let peakClass = [{
     "difficulty": "moderate",
     "lengthOfHike": "longer",
     "distance": "close",
-    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
+    "link": "https://www.14ers.com/route.php?route=mass1&peak=Mt.+Massive"
   }
 }, {
   "id": 3,
@@ -34,7 +34,7 @@ let peakClass = [{
     "lengthOfHike": "medium",
     "lengthOfHike2": "longer",
     "distance": "close",
-    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
+    "link": "https://www.14ers.com/route.php?route=harv1&peak=Mt.+Harvard+and+Mt.+Columbia"
   }
 }, {
   "id": 4,
@@ -47,7 +47,7 @@ let peakClass = [{
     "lengthOfHike": "longer",
     "distance": "close",
     "distance2": "Far",
-    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
+    "link": "https://www.14ers.com/route.php?route=blan1&peak=Blanca%20Peak"
   }
 }, {
   "id": 5,
@@ -59,7 +59,7 @@ let peakClass = [{
     "difficulty": "moderate",
     "lengthOfHike": "medium",
     "distance": "close",
-    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
+    "link": "https://www.14ers.com/route.php?route=lapl1&peak=La+Plata+Peak"
   }
 }, {
   "id": 6,
@@ -72,7 +72,7 @@ let peakClass = [{
     "lengthOfHike": "shorter",
     "lengthOfHike2": "medium",
     "distance": "far",
-    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
+    "link": "https://www.14ers.com/route.php?route=unco1&peak=Uncompahgre+Peak"
   }
 }, {
   "id": 7,
@@ -85,7 +85,7 @@ let peakClass = [{
     "lengthOfHike": "longer",
     "distance": "close",
     "distance2": "far",
-    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
+    "link": "https://www.14ers.com/route.php?route=cpea2&peak=Crestone%20Peak"
   }
 }, {
   "id": 8,
@@ -97,7 +97,7 @@ let peakClass = [{
     "difficulty": "easier",
     "lengthOfHike": "shorter",
     "distance": "close",
-    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
+    "link": "https://www.14ers.com/route.php?route=linc1&peak=Mt.+Lincoln"
   }
 }, {
   "id": 9,
@@ -110,7 +110,7 @@ let peakClass = [{
     "lengthOfHike": "shorter",
     "lengthOfHike2": "medium",
     "distance": "close",
-    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
+    "link": "https://www.14ers.com/route.php?route=gray1&peak=Grays+Peak"
   }
 }, {
   "id": 10,
@@ -122,7 +122,7 @@ let peakClass = [{
     "difficulty": "moderate",
     "lengthOfHike": "longer",
     "distance": "close",
-    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
+    "link": "https://www.14ers.com/route.php?route=ante1&peak=Mt.+Antero"
   }
 }, {
   "id": 11,
@@ -135,7 +135,7 @@ let peakClass = [{
     "lengthOfHike": "shorter",
     "lengthOfHike2": "medium",
     "distance": "close",
-    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
+    "link": "https://www.14ers.com/route.php?route=torr2&peak=Torreys+Peak"
   }
 }, {
   "id": 12,
@@ -148,11 +148,10 @@ let peakClass = [{
     "lengthOfHike": "longer",
     "distance": "far",
     "distance2": "close",
-    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
+    "link": "https://www.14ers.com/route.php?route=cast1&peak=Castle%20Peak"
 
   }
 },
-// start here
 
 {
   "id": 13,
@@ -164,7 +163,7 @@ let peakClass = [{
     "difficulty": "easier",
     "lengthOfHike": "shorter",
     "distance": "close",
-    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
+    "link": "https://www.14ers.com/route.php?route=quan1&peak=Quandary+Peak"
   }
 }, {
   "id": 14,
