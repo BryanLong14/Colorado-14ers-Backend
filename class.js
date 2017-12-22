@@ -21,7 +21,7 @@ let peakClass = [{
     "difficulty": "moderate",
     "lengthOfHike": "longer",
     "distance": "close",
-    // "link": <a href="https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert">Route Link</a>
+    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
   }
 }, {
   "id": 3,
@@ -33,7 +33,8 @@ let peakClass = [{
     "difficulty": "moderate",
     "lengthOfHike": "medium",
     "lengthOfHike2": "longer",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
   }
 }, {
   "id": 4,
@@ -45,7 +46,8 @@ let peakClass = [{
     "difficulty": "moderate",
     "lengthOfHike": "longer",
     "distance": "close",
-    "distance2": "Far"
+    "distance2": "Far",
+    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
   }
 }, {
   "id": 5,
@@ -56,7 +58,8 @@ let peakClass = [{
     "roundtrip_distance": 9,
     "difficulty": "moderate",
     "lengthOfHike": "medium",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
   }
 }, {
   "id": 6,
@@ -68,7 +71,8 @@ let peakClass = [{
     "difficulty": "moderate",
     "lengthOfHike": "shorter",
     "lengthOfHike2": "medium",
-    "distance": "far"
+    "distance": "far",
+    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
   }
 }, {
   "id": 7,
@@ -80,7 +84,8 @@ let peakClass = [{
     "difficulty": "hard",
     "lengthOfHike": "longer",
     "distance": "close",
-    "distance2": "far"
+    "distance2": "far",
+    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
   }
 }, {
   "id": 8,
@@ -91,7 +96,8 @@ let peakClass = [{
     "roundtrip_distance": 6,
     "difficulty": "easier",
     "lengthOfHike": "shorter",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
   }
 }, {
   "id": 9,
@@ -103,7 +109,8 @@ let peakClass = [{
     "difficulty": "easier",
     "lengthOfHike": "shorter",
     "lengthOfHike2": "medium",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
   }
 }, {
   "id": 10,
@@ -114,7 +121,8 @@ let peakClass = [{
     "roundtrip_distance": 16,
     "difficulty": "moderate",
     "lengthOfHike": "longer",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
   }
 }, {
   "id": 11,
@@ -126,7 +134,8 @@ let peakClass = [{
     "difficulty": "easier",
     "lengthOfHike": "shorter",
     "lengthOfHike2": "medium",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
   }
 }, {
   "id": 12,
@@ -138,10 +147,14 @@ let peakClass = [{
     "difficulty": "moderate",
     "lengthOfHike": "longer",
     "distance": "far",
-    "distance2": "close"
+    "distance2": "close",
+    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
 
   }
-}, {
+},
+// start here
+
+{
   "id": 13,
   "new_attributes": {
     "peak_name": "Quandary Peak",
@@ -150,18 +163,20 @@ let peakClass = [{
     "roundtrip_distance": 7,
     "difficulty": "easier",
     "lengthOfHike": "shorter",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=elbe2&peak=Mt.+Elbert"
   }
 }, {
   "id": 14,
   "new_attributes": {
     "peak_name": "Mt. Evans",
     "class": 2,
-    "standard_route": "West Ridge",
+    "standard_route": "West Ridge Via Mt. Spalding",
     "roundtrip_distance": 5,
     "difficulty": "easier",
     "lengthOfHike": "shorter",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=evan2&peak=Mt.+Evans"
   }
 }, {
   "id": 15,
@@ -172,7 +187,8 @@ let peakClass = [{
     "roundtrip_distance": 15,
     "difficulty": "hard",
     "lengthOfHike": "longer",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=long1&peak=Longs+Peak"
   }
 }, {
   "id": 16,
@@ -183,7 +199,8 @@ let peakClass = [{
     "roundtrip_distance": 16,
     "difficulty": "hard",
     "lengthOfHike": "longer",
-    "distance": "far"
+    "distance": "far",
+    "link": "https://www.14ers.com/route.php?route=mwil2&peak=Mt.+Wilson%2C+Wilson+Peak%2C+and+El+Diente+Peak"
   }
 }, {
   "id": 17,
@@ -194,7 +211,8 @@ let peakClass = [{
     "roundtrip_distance": 7,
     "difficulty": "easier",
     "lengthOfHike": "shorter",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=bros6"
   }
 }, {
   "id": 18,
@@ -205,7 +223,8 @@ let peakClass = [{
     "roundtrip_distance": 9,
     "difficulty": "moderate",
     "lengthOfHike": "medium",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=shav1&peak=Mt.+Shavano+and+Tabeguache+Peak"
   }
 }, {
   "id": 19,
@@ -217,7 +236,8 @@ let peakClass = [{
     "difficulty": "moderate",
     "lengthOfHike": "shorter",
     "lengthOfHike2": "medium",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=belf1&peak=Mt.+Belford+and+Mt.+Oxford"
   }
 }, {
   "id": 20,
@@ -230,7 +250,8 @@ let peakClass = [{
     "lengthOfHike": "longer",
     "lengthOfHike2": "medium",
     "distance": "close",
-    "distance2": "far"
+    "distance2": "far",
+    "link": "https://www.14ers.com/route.php?route=cnee1&peak=Crestone+Peak+and+Crestone+Needle"
   }
 }, {
   "id": 21,
@@ -241,7 +262,8 @@ let peakClass = [{
     "roundtrip_distance": 6,
     "difficulty": "moderate",
     "lengthOfHike": "shorter",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=prin1&peak=Mt.+Princeton"
   }
 }, {
   "id": 22,
@@ -252,7 +274,8 @@ let peakClass = [{
     "roundtrip_distance": 9,
     "difficulty": "moderate",
     "lengthOfHike": "medium",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=yale1&peak=Mt.+Yale"
   }
 }, {
   "id": 23,
@@ -263,7 +286,8 @@ let peakClass = [{
     "roundtrip_distance": 7,
     "difficulty": "easier",
     "lengthOfHike": "shorter",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=bros1&peak=Mt.+Bross"
   }
 }, {
   "id": 24,
@@ -275,7 +299,8 @@ let peakClass = [{
     "difficulty": "hard",
     "lengthOfHike": "longer",
     "lengthOfHike2": "medium",
-    "distance": "far"
+    "distance": "far",
+    "link": "https://www.14ers.com/route.php?route=kitc2&peak=Kit+Carson+Peak+and+Challenger+Point"
     }
 }, {
   "id": 25,
@@ -286,7 +311,8 @@ let peakClass = [{
     "roundtrip_distance": 15,
     "difficulty": "hard",
     "lengthOfHike": "longer",
-    "distance": "far"
+    "distance": "far",
+    "link": "https://www.14ers.com/route.php?route=eldi3&peak=El+Diente+Peak"
   }
 }, {
   "id": 26,
@@ -297,7 +323,8 @@ let peakClass = [{
     "roundtrip_distance": 11,
     "difficulty": "hard",
     "lengthOfHike": "longer",
-    "distance2": "close"
+    "distance2": "close",
+    "link": "https://www.14ers.com/route.php?route=maro1&peak=The+Maroon+Bells"
     }
 }, {
   "id": 27,
@@ -308,7 +335,8 @@ let peakClass = [{
     "roundtrip_distance": 11,
     "difficulty": "moderate",
     "lengthOfHike": "medium",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=tabe2&peak=Mt.+Shavano+and+Tabeguache+Peak"
     }
 }, {
   "id": 28,
@@ -319,7 +347,8 @@ let peakClass = [{
     "roundtrip_distance": 11,
     "difficulty": "moderate",
     "lengthOfHike": "medium",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=oxfo2&peak=Mt.+Oxford"
     }
 }, {
   "id": 29,
@@ -330,7 +359,8 @@ let peakClass = [{
     "roundtrip_distance": 6,
     "difficulty": "moderate",
     "lengthOfHike": "shorter",
-    "distance": "far"
+    "distance": "far",
+    "link": "https://www.14ers.com/route.php?route=snef1&peak=Mt.+Sneffels"
     }
 }, {
   "id": 30,
@@ -341,7 +371,8 @@ let peakClass = [{
     "roundtrip_distance": 7,
     "difficulty": "easier",
     "lengthOfHike": "shorter",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=demo1&peak=Mt.+Democrat"
     }
 }, {
   "id": 31,
@@ -353,7 +384,8 @@ let peakClass = [{
     "difficulty": "hard",
     "lengthOfHike": "longer",
     "distance": "far",
-    "distance2": "close"
+    "distance2": "close",
+    "link": "https://www.14ers.com/route.php?route=capi1&peak=Capitol+Peak"
     }
 }, {
   "id": 32,
@@ -365,7 +397,8 @@ let peakClass = [{
     "difficulty": "easier",
     "lengthOfHike": "longer",
     "lengthOfHike2": "medium",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=pike1&peak=Pikes+Peak"
     }
   }, {
   "id": 33,
@@ -377,7 +410,8 @@ let peakClass = [{
     "difficulty": "hard",
     "lengthOfHike": "longer",
     "distance": "far",
-    "distance2": "close"
+    "distance2": "close",
+    "link": "https://www.14ers.com/route.php?route=snow1&peak=Snowmass+Mountain"
     }
 }, {
   "id": 34,
@@ -388,7 +422,8 @@ let peakClass = [{
     "roundtrip_distance": 17,
     "difficulty": "hard",
     "lengthOfHike": "longer",
-    "distance": "far"
+    "distance": "far",
+    "link": "https://www.14ers.com/route.php?route=eolu3&peak=Mt.+Eolus%2C+Windom+Peak%2C+and+Sunlight+Peak"
     }
   }, {
   "id": 35,
@@ -399,7 +434,8 @@ let peakClass = [{
     "roundtrip_distance": 17,
     "difficulty": "moderate",
     "lengthOfHike": "longer",
-    "distance": "far"
+    "distance": "far",
+    "link": "https://www.14ers.com/route.php?route=wind1&peak=Windom%20Peak"
     }
 }, {
   "id": 36,
@@ -407,10 +443,11 @@ let peakClass = [{
     "peak_name": "Challenger Point",
     "class": 2,
     "standard_route": "North Slopes",
-    "roundtrip_distance": 12,
+    "roundtrip_distance": 12.5,
     "difficulty": "moderate",
     "lengthOfHike": "medium",
-    "distance": "far"
+    "distance": "far",
+    "link": "https://www.14ers.com/route.php?route=chal1&peak=Kit+Carson+Peak+and+Challenger+Point"
     }
 }, {
   "id": 37,
@@ -418,10 +455,11 @@ let peakClass = [{
     "peak_name": "Mt. Columbia",
     "class": 2,
     "standard_route": "West Slopes",
-    "roundtrip_distance": 11,
+    "roundtrip_distance": 11.5,
     "difficulty": "moderate",
     "lengthOfHike": "medium",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=colu2&peak=Mt.+Harvard+and+Mt.+Columbia"
     }
 }, {
   "id": 38,
@@ -432,7 +470,8 @@ let peakClass = [{
     "roundtrip_distance": 10,
     "difficulty": "moderate",
     "lengthOfHike": "medium",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=miss1&peak=Missouri+Mountain"
   }
 }, {
   "id": 39,
@@ -443,7 +482,8 @@ let peakClass = [{
     "roundtrip_distance": 11,
     "difficulty": "moderate",
     "lengthOfHike": "medium",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/photos/peakmain.php?peak=Humboldt+Peak"
     }
 }, {
   "id": 40,
@@ -454,7 +494,8 @@ let peakClass = [{
     "roundtrip_distance": 7,
     "difficulty": "easier",
     "lengthOfHike": "shorter",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=bier1&peak=Mt.+Bierstadt"
   }
 }, {
   "id": 41,
@@ -462,11 +503,12 @@ let peakClass = [{
     "peak_name": "Conundrum Peak",
     "class": 2,
     "standard_route": "Via Castle",
-    "roundtrip_distance": 14,
+    "roundtrip_distance": 14.5,
     "difficulty": "moderate",
     "lengthOfHike": "longer",
     "distance": "far",
-    "distance2": "close"
+    "distance2": "close",
+    "link": "https://www.14ers.com/route.php?route=cast4&peak=Castle+Peak+and+Conundrum+Peak"
     }
 }, {
   "id": 42,
@@ -477,7 +519,8 @@ let peakClass = [{
     "roundtrip_distance": 17,
     "difficulty": "hard",
     "lengthOfHike": "longer",
-    "distance": "far"
+    "distance": "far",
+    "link": "https://www.14ers.com/route.php?route=sunl2&peak=Sunlight%20Peak"
     }
 }, {
   "id": 43,
@@ -488,7 +531,8 @@ let peakClass = [{
     "roundtrip_distance": 6,
     "difficulty": "easier",
     "lengthOfHike": "shorter",
-    "distance": "far"
+    "distance": "far",
+    "link": "https://www.14ers.com/route.php?route=hand1&peak=Handies+Peak"
     }
   }, {
   "id": 44,
@@ -499,7 +543,8 @@ let peakClass = [{
     "roundtrip_distance": 5,
     "difficulty": "easier",
     "lengthOfHike": "shorter",
-    "distance": "far"
+    "distance": "far",
+    "link": "https://www.14ers.com/route.php?route=cule1&peak=Culebra+Peak"
     }
   }, {
   "id": 45,
@@ -510,7 +555,8 @@ let peakClass = [{
     "roundtrip_distance": 17,
     "difficulty": "moderate",
     "lengthOfHike": "longer",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=elli2&peak=Ellingwood+Point"
   }
 }, {
   "id": 46,
@@ -522,7 +568,8 @@ let peakClass = [{
     "difficulty": "hard",
     "lengthOfHike": "shorter",
     "lengthOfHike2": "medium",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=lind1&peak=Mt.+Lindsey"
     }
   }, {
   "id": 47,
@@ -533,7 +580,8 @@ let peakClass = [{
     "roundtrip_distance": 17,
     "difficulty": "hard",
     "lengthOfHike": "longer",
-    "distance": "far"
+    "distance": "far",
+    "link": "https://14ers.com/route.php?route=eolu3&peak=North%2520Eolus"
   }
 }, {
   "id": 48,
@@ -544,7 +592,8 @@ let peakClass = [{
     "roundtrip_distance": 14,
     "difficulty": "hard",
     "lengthOfHike": "longer",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=litt6&peak=Little%20Bear%20Peak"
     }
   }, {
   "id": 49,
@@ -555,7 +604,8 @@ let peakClass = [{
     "roundtrip_distance": 5,
     "difficulty": "easier",
     "lengthOfHike": "shorter",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=sher1&peak=Mt.+Sherman"
   }
 }, {
   "id": 50,
@@ -566,7 +616,8 @@ let peakClass = [{
     "roundtrip_distance": 5,
     "difficulty": "moderate",
     "lengthOfHike": "shorter",
-    "distance": "far"
+    "distance": "far",
+    "link": "https://www.14ers.com/route.php?route=redc1&peak=Redcloud+Peak+and+Sunshine+Peak"
   }
 }, {
   "id": 51,
@@ -579,7 +630,8 @@ let peakClass = [{
     "lengthOfHike": "medium",
     "lengthOfHik2": "shorter",
     "distance": "far",
-    "distance2": "close"
+    "distance2": "close",
+    "link": "https://www.14ers.com/route.php?route=pyra1&peak=Pyramid+Peak"
   }
 }, {
   "id": 52,
@@ -590,7 +642,8 @@ let peakClass = [{
     "roundtrip_distance": 16,
     "difficulty": "hard",
     "lengthOfHike": "longer",
-    "distance": "far"
+    "distance": "far",
+    "link": "https://www.14ers.com/route.php?route=mwil2&peak=Mt.+Wilson%2C+Wilson+Peak%2C+and+El+Diente+Peak"
   }
 }, {
   "id": 53,
@@ -601,7 +654,8 @@ let peakClass = [{
     "roundtrip_distance": 7,
     "difficulty": "hard",
     "lengthOfHike": "shorter",
-    "distance": "far"
+    "distance": "far",
+    "link": "https://www.14ers.com/route.php?route=wett1&peak=Wetterhorn+Peak"
   }
 }, {
   "id": 54,
@@ -609,10 +663,11 @@ let peakClass = [{
     "peak_name": "San Luis Peak",
     "class": 1,
     "standard_route": "Northeast Ridge",
-    "roundtrip_distance": 14,
+    "roundtrip_distance": 13.5,
     "difficulty": "easier",
     "lengthOfHike": "longer",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=sanl1&peak=San+Luis+Peak"
   }
 }, {
   "id": 55,
@@ -620,12 +675,13 @@ let peakClass = [{
     "peak_name": "North Maroon Peak",
     "class": 4,
     "standard_route": "Northeast Ridge",
-    "roundtrip_distance": 8,
+    "roundtrip_distance": 9,
     "difficulty": "hard",
     "lengthOfHike": "shorter",
     "lengthOfHike2": "medium",
     "distance": "far",
-    "distance2": "close"
+    "distance2": "close",
+    "link": "https://www.14ers.com/route.php?route=nmar2&peak=North%20Maroon%20Peak"
   }
 }, {
   "id": 56,
@@ -637,7 +693,8 @@ let peakClass = [{
     "difficulty": "moderate",
     "lengthOfHike": "longer",
     "lengthOfHike2": "medium",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=holy1&peak=Mt.+of+the+Holy+Cross"
   }
 }, {
   "id": 57,
@@ -648,7 +705,8 @@ let peakClass = [{
     "roundtrip_distance": 6,
     "difficulty": "easier",
     "lengthOfHike": "shorter",
-    "distance": "close"
+    "distance": "close",
+    "link": "https://www.14ers.com/route.php?route=huro1&peak=Huron+Peak"
   }
 }, {
   "id": 58,
@@ -660,7 +718,8 @@ let peakClass = [{
     "difficulty": "moderate",
     "lengthOfHike": "longer",
     "lengthOfHike2": "medium",
-    "distance": "far"
+    "distance": "far",
+    "link": "https://www.14ers.com/route.php?route=suns2&peak=Sunshine%20Peak"
   }
 }
 ]
