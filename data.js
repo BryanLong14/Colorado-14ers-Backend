@@ -3,7 +3,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Elbert",
     "range": "Sawatch Range",
-    "rank": "1",
+    "rank": "1st",
     "elevation": "14,433",
     "towns": "Leadville, Twin Lakes, Aspen",
     "latitude": "39.117777777777775",
@@ -14,7 +14,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Massive",
     "range": "Sawatch Range",
-    "rank": "2",
+    "rank": "2nd",
     "elevation": "14,421",
     "towns": "Leadville, Aspen",
     "latitude": "39.18722222222222",
@@ -25,7 +25,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Harvard",
     "range": "Sawatch Range",
-    "rank": "3",
+    "rank": "3rd",
     "elevation": "14,420",
     "towns": "Granite, Buena Vista, Leadville",
     "latitude": "38.92444444444444",
@@ -36,7 +36,7 @@ let data = [{
   "attributes": {
     "peak_name": "Blanca Peak",
     "range": "Sangre de Cristo",
-    "rank": "4",
+    "rank": "4th",
     "elevation": "14,345",
     "towns": "Fort Garland, Blanca, Alamosa",
     "latitude": "37.577222222222225",
@@ -47,7 +47,7 @@ let data = [{
   "attributes": {
     "peak_name": "La Plata Peak",
     "range": "Sawatch Range",
-    "rank": "5",
+    "rank": "5th",
     "elevation": "14,336",
     "towns": "Twin Lakes, Leadville, Buena Vista, Aspen",
     "latitude": "39.029444444444444",
@@ -58,7 +58,7 @@ let data = [{
   "attributes": {
     "peak_name": "Uncompahgre Peak",
     "range": "San Juan Mountains",
-    "rank": "6",
+    "rank": "6th",
     "elevation": "14,309",
     "towns": "Lake City, Ouray",
     "latitude": "38.07166666666667",
@@ -69,7 +69,7 @@ let data = [{
   "attributes": {
     "peak_name": "Crestone Peak",
     "range": "Sangre de Cristo",
-    "rank": "7",
+    "rank": "7th",
     "elevation": "14,294",
     "towns": "Crestone, Moffat, Hooper, Alamosa",
     "latitude": "37.96666666666667",
@@ -80,7 +80,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Lincoln",
     "range": "Mosquito Range",
-    "rank": "8",
+    "rank": "8th",
     "elevation": "14,286",
     "towns": "Alma, Fairplay, Breckenridge",
     "latitude": "39.35138888888889",
@@ -91,7 +91,7 @@ let data = [{
   "attributes": {
     "peak_name": "Grays Peak",
     "range": "Front Range",
-    "rank": "9",
+    "rank": "9th",
     "elevation": "14,270",
     "towns": "Bakerville, Montezuma, Keystone",
     "latitude": "39.63388888888889",
@@ -102,7 +102,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Antero",
     "range": "Sawatch Range",
-    "rank": "10",
+    "rank": "10th",
     "elevation": "14,269",
     "towns": "Leadville, Buena Vista, Salida",
     "latitude": "38.67388888888889",
@@ -113,7 +113,7 @@ let data = [{
   "attributes": {
     "peak_name": "Torreys Peak",
     "range": "Front Range",
-    "rank": "11",
+    "rank": "11th",
     "elevation": "14,267",
     "towns": "Bakerville, Montezuma, Keystone",
     "latitude": "39.64277777777778",
@@ -124,7 +124,7 @@ let data = [{
   "attributes": {
     "peak_name": "Castle Peak",
     "range": "Elk Mountains",
-    "rank": "12",
+    "rank": "12th",
     "elevation": "14,265",
     "towns": "Ashcroft, Crested Butte, Aspen",
     "latitude": "39.00972222222222",
@@ -135,7 +135,7 @@ let data = [{
   "attributes": {
     "peak_name": "Quandary Peak",
     "range": "Tenmile Range",
-    "rank": "13",
+    "rank": "13th",
     "elevation": "14,265",
     "towns": "Breckenridge, Alma, Fairplay, Leadville",
     "latitude": "39.39722222222222",
@@ -146,7 +146,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Evans",
     "range": "Front Range",
-    "rank": "14",
+    "rank": "14th",
     "elevation": "14,264",
     "towns": "Denver, Idaho Springs, Georgetown, Evergreen",
     "latitude": "39.58861111111111",
@@ -157,7 +157,7 @@ let data = [{
   "attributes": {
     "peak_name": "Longs Peak",
     "range": "Front Range",
-    "rank": "15",
+    "rank": "15th",
     "elevation": "14,255",
     "towns": "Estes Park, Meeker Park",
     "latitude": "40.25472222222222",
@@ -168,7 +168,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Wilson",
     "range": "San Juan Mountains",
-    "rank": "16",
+    "rank": "16th",
     "elevation": "14,246",
     "towns": "Ouray, Telluride, Rico",
     "latitude": "37.83916666666667",
@@ -179,7 +179,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Cameron",
     "range": "Mosquito Range",
-    "rank": "16",
+    "rank": "16th (although it is not officially ranked)",
     "elevation": "14,238",
     "towns": "Alma, Fairplay, Breckenridge",
     "latitude": "39.346944444444446",
@@ -190,7 +190,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Shavano",
     "range": "Sawatch Range",
-    "rank": "17",
+    "rank": "17th",
     "elevation": "14,229",
     "towns": "Salida, Poncha Springs, Buena Vista",
     "latitude": "38.619166666666665",
@@ -201,7 +201,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Belford",
     "range": "Sawatch Range",
-    "rank": "18",
+    "rank": "18th",
     "elevation": "14,197",
     "towns": "Granite, Buena Vista, Leadville",
     "latitude": "38.96083333333333",
@@ -212,7 +212,7 @@ let data = [{
   "attributes": {
     "peak_name": "Crestone Needle",
     "range": "Sangre de Cristo",
-    "rank": "19",
+    "rank": "19th",
     "elevation": "14,197",
     "towns": "Crestone, Moffat, Hooper, Alamosa",
     "latitude": "37.96472222222223",
@@ -223,7 +223,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Princeton",
     "range": "Sawatch Range",
-    "rank": "20",
+    "rank": "20th",
     "elevation": "14,197",
     "towns": "Buena Vista, Salida, Leadville",
     "latitude": "38.74944444444444",
@@ -234,7 +234,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Yale",
     "range": "Sawatch Range",
-    "rank": "21",
+    "rank": "21st",
     "elevation": "14,196",
     "towns": "Buena Vista, Leadville, Salida",
     "latitude": "38.844166666666666",
@@ -245,7 +245,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Bross",
     "range": "Mosquito Range",
-    "rank": "22",
+    "rank": "22nd",
     "elevation": "14,172",
     "towns": "Breckenridge, Alma, Leadville",
     "latitude": "39.33527777777778",
@@ -256,7 +256,7 @@ let data = [{
   "attributes": {
     "peak_name": "Kit Carson Peak",
     "range": "Sangre de Cristo",
-    "rank": "23",
+    "rank": "23rd",
     "elevation": "14,165",
     "towns": "Crestone, Moffat, Hooper, Alamosa",
     "latitude": "37.97972222222222",
@@ -267,7 +267,7 @@ let data = [{
   "attributes": {
     "peak_name": "El Diente Peak",
     "range": "San Juan Mountains",
-    "rank": "23",
+    "rank": "23rd (although it is not officially ranked)",
     "elevation": "14,159",
     "towns": "Ouray, Telluride, Rico",
     "latitude": "37.839444444444446",
@@ -278,7 +278,7 @@ let data = [{
   "attributes": {
     "peak_name": "Maroon Peak",
     "range": "Elk Mountains",
-    "rank": "24",
+    "rank": "24th",
     "elevation": "14,156",
     "towns": "Aspen, Snowmass",
     "latitude": "39.07083333333334",
@@ -289,7 +289,7 @@ let data = [{
   "attributes": {
     "peak_name": "Tabeguache Peak",
     "range": "Sawatch Range",
-    "rank": "25",
+    "rank": "25th",
     "elevation": "14,155",
     "towns": "Salida, Poncha Springs, Buena Vista",
     "latitude": "38.62555555555556",
@@ -300,7 +300,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Oxford",
     "range": "Sawatch Range",
-    "rank": "26",
+    "rank": "26th",
     "elevation": "14,153",
     "towns": "Granite, Buena Vista, Leadville",
     "latitude": "38.96472222222223",
@@ -311,7 +311,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Sneffels",
     "range": "San Juan Mountains",
-    "rank": "27",
+    "rank": "27th",
     "elevation": "14,150",
     "towns": "Ridgway, Ouray, Telluride",
     "latitude": "38.00333333333333",
@@ -322,7 +322,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Democrat",
     "range": "Mosquito Range",
-    "rank": "28",
+    "rank": "28th",
     "elevation": "14,148",
     "towns": "Fairplay, Alma, Leadville",
     "latitude": "39.33972222222222",
@@ -333,7 +333,7 @@ let data = [{
   "attributes": {
     "peak_name": "Capitol Peak",
     "range": "Elk Mountains",
-    "rank": "29",
+    "rank": "29th",
     "elevation": "14,130",
     "towns": "Aspen, Snowmass, Carbondale",
     "latitude": "39.150277777777774",
@@ -344,7 +344,7 @@ let data = [{
   "attributes": {
     "peak_name": "Pikes Peak",
     "range": "Front Range",
-    "rank": "30",
+    "rank": "30th",
     "elevation": "14,110",
     "towns": "Manitou Springs, Colorado Springs",
     "latitude": "38.84055555555556",
@@ -355,7 +355,7 @@ let data = [{
   "attributes": {
     "peak_name": "Snowmass Mountain",
     "range": "Elk Mountains",
-    "rank": "31",
+    "rank": "31st",
     "elevation": "14,092",
     "towns": "Aspen, Snowmass, Carbondale",
     "latitude": "39.11888888888889",
@@ -366,7 +366,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Eolus",
     "range": "San Juan Mountains",
-    "rank": "32",
+    "rank": "32nd",
     "elevation": "14,083",
     "towns": "Silverton, Ouray",
     "latitude": "37.62277777777778",
@@ -377,7 +377,7 @@ let data = [{
   "attributes": {
     "peak_name": "Windom Peak",
     "range": "San Juan Mountains",
-    "rank": "33",
+    "rank": "33rd",
     "elevation": "14,082",
     "towns": "Silverton, Ouray",
     "latitude": "37.62138888888889",
@@ -388,7 +388,7 @@ let data = [{
   "attributes": {
     "peak_name": "Challenger Point",
     "range": "Sangre de Cristo",
-    "rank": "34",
+    "rank": "34th",
     "elevation": "14,081",
     "towns": "Crestone, Moffat, Hooper, Alamosa",
     "latitude": "37.98027777777778",
@@ -399,7 +399,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Columbia",
     "range": "Sawatch Range",
-    "rank": "35",
+    "rank": "35th",
     "elevation": "14,073",
     "towns": "Buena Vista, Leadville, Salida",
     "latitude": "38.903888888888886",
@@ -410,7 +410,7 @@ let data = [{
   "attributes": {
     "peak_name": "Missouri Mountain",
     "range": "Sawatch Range",
-    "rank": "36",
+    "rank": "36th",
     "elevation": "14,067",
     "towns": "Granite, Buena Vista, Leadville",
     "latitude": "38.947222222222216",
@@ -421,7 +421,7 @@ let data = [{
   "attributes": {
     "peak_name": "Humboldt Peak",
     "range": "Sangre de Cristo",
-    "rank": "37",
+    "rank": "37th",
     "elevation": "14,064",
     "towns": "Silver Cliff, Westcliffe, Bradford, Crestone",
     "latitude": "37.976111111111116",
@@ -432,7 +432,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Bierstadt",
     "range": "Front Range",
-    "rank": "38",
+    "rank": "38th",
     "elevation": "14,060",
     "towns": "Georgetown, Idaho Springs, Grant",
     "latitude": "39.58277777777778",
@@ -443,7 +443,7 @@ let data = [{
   "attributes": {
     "peak_name": "Conundrum Peak",
     "range": "Elk Mountains",
-    "rank": "38",
+    "rank": "38th (although it is not officially ranked)",
     "elevation": "14,060",
     "towns": "Ashcroft, Crested Butte, Aspen",
     "latitude": "39.01444444444444",
@@ -454,7 +454,7 @@ let data = [{
   "attributes": {
     "peak_name": "Sunlight Peak",
     "range": "San Juan Mountains",
-    "rank": "39",
+    "rank": "39th",
     "elevation": "14,059",
     "towns": "Silverton, Ouray",
     "latitude": "37.62722222222222",
@@ -465,7 +465,7 @@ let data = [{
   "attributes": {
     "peak_name": "Handie Peak",
     "range": "San Juan Mountains",
-    "rank": "40",
+    "rank": "40th",
     "elevation": "14,048",
     "towns": "Ouray, Lake City, Silverton, Telluride",
     "latitude": "37.91305555555555",
@@ -476,7 +476,7 @@ let data = [{
   "attributes": {
     "peak_name": "Culebra Peak",
     "range": "Sangre de Cristo",
-    "rank": "41",
+    "rank": "41st",
     "elevation": "14,047",
     "towns": "San Luis, Fort Garland, Alamosa, Trinidad",
     "latitude": "37.12222222222222",
@@ -487,7 +487,7 @@ let data = [{
   "attributes": {
     "peak_name": "Ellingwood Point",
     "range": "Sangre de Cristo",
-    "rank": "42",
+    "rank": "42nd",
     "elevation": "14,042",
     "towns": "Fort Garland, Blanca, Alamosa",
     "latitude": "37.5825",
@@ -498,7 +498,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Lindsey",
     "range": "Sangre de Cristo",
-    "rank": "43",
+    "rank": "43rd",
     "elevation": "14,042",
     "towns": "Fort Garland, Blanca, Alamosa",
     "latitude": "37.584722222222226",
@@ -509,7 +509,7 @@ let data = [{
   "attributes": {
     "peak_name": "North Eolus",
     "range": "San Juan Mountains",
-    "rank": "43",
+    "rank": "43rd (although it is not officially ranked)",
     "elevation": "14,039",
     "towns": "Silverton, Ouray",
     "latitude": "37.625277777777775",
@@ -520,7 +520,7 @@ let data = [{
   "attributes": {
     "peak_name": "Little Bear Peak",
     "range": "Sangre de Cristo",
-    "rank": "44",
+    "rank": "44th",
     "elevation": "14,037",
     "towns": "Fort Garland, Blanca, Alamosa",
     "latitude": "37.56666666666667",
@@ -531,7 +531,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. Sherman",
     "range": "Mosquito Range",
-    "rank": "45",
+    "rank": "45th",
     "elevation": "14,036",
     "towns": "Fairplay, Alma, Leadville",
     "latitude": "39.225",
@@ -542,7 +542,7 @@ let data = [{
   "attributes": {
     "peak_name": "Redcloud Peak",
     "range": "San Juan Mountains",
-    "rank": "46",
+    "rank": "46th",
     "elevation": "14,034",
     "towns": "Ouray, Lake City, Silverton, Telluride",
     "latitude": "37.94083333333333",
@@ -553,7 +553,7 @@ let data = [{
   "attributes": {
     "peak_name": "Pyramid Peak",
     "range": "Elk Mountains",
-    "rank": "47",
+    "rank": "47th",
     "elevation": "14,018",
     "towns": "Aspen, Snowmass",
     "latitude": "39.07138888888889",
@@ -564,7 +564,7 @@ let data = [{
   "attributes": {
     "peak_name": "Wilson Peak",
     "range": "San Juan Mountains",
-    "rank": "48",
+    "rank": "48th",
     "elevation": "14,017",
     "towns": "Ouray, Telluride, Rico",
     "latitude": "37.86027777777778",
@@ -575,7 +575,7 @@ let data = [{
   "attributes": {
     "peak_name": "Wetterhorn Peak",
     "range": "San Juan Mountains",
-    "rank": "49",
+    "rank": "49th",
     "elevation": "14,015",
     "towns": "Lake City, Ouray",
     "latitude": "38.06055555555555",
@@ -586,7 +586,7 @@ let data = [{
   "attributes": {
     "peak_name": "San Luis Peak",
     "range": "San Juan Mountains",
-    "rank": "50",
+    "rank": "50th",
     "elevation": "14,014",
     "towns": "Creede, Lake City, Gunnison",
     "latitude": "37.98694444444445",
@@ -597,7 +597,7 @@ let data = [{
   "attributes": {
     "peak_name": "North Maroon Peak",
     "range": "Elk Mountains",
-    "rank": "50",
+    "rank": "50th (although it is not officially ranked)",
     "elevation": "14,014",
     "towns": "Aspen, Snowmass",
     "latitude": "39.07611111111112",
@@ -608,7 +608,7 @@ let data = [{
   "attributes": {
     "peak_name": "Mt. of the Holy Cross",
     "range": "Sawatch Mountains",
-    "rank": "51",
+    "rank": "51st",
     "elevation": "14,005",
     "towns": "Red Cliff, Minturn, Vail",
     "latitude": "39.46805555555556",
@@ -619,7 +619,7 @@ let data = [{
   "attributes": {
     "peak_name": "Huron Peak",
     "range": "Sawatch Mountains",
-    "rank": "52",
+    "rank": "52nd",
     "elevation": "14,003",
     "towns": "Granite, Buena Vista, Leadville",
     "latitude": "38.945277777777775",
@@ -630,7 +630,7 @@ let data = [{
   "attributes": {
     "peak_name": "Sunshine Peak",
     "range": "San Juan Mountains",
-    "rank": "53",
+    "rank": "53rd",
     "elevation": "14,001",
     "towns": "Ouray, Lake City, Silverton, Telluride",
     "latitude": "37.922777777777775",
