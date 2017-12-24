@@ -14,7 +14,6 @@ app.get('/class', function (req, res) {
   res.send(peakClass);
 });
 
-
 app.listen(process.env.PORT || 3000, () => {
   console.log('Example app listening on port 3000!');
 });
@@ -32,13 +31,6 @@ function mergedPeakData(data, peakClass) {
 
 let mergedArray= mergedPeakData(data, peakClass);
 
-// working
-// app.get('/merged', function (req, res) {
-//   res.send(mergedArray);
-// });
-
-// new
-
 app.get('/merged', function(request, response) {
     response.json(mergedArray);
 });
@@ -48,7 +40,7 @@ let suggestions = [];
 app.post('/suggestions', function(request, response) {
   suggestions.push(request.body);
   response.json({
-    "Success! Thank you for suggesting": request.body
+    "Thanks for your comment or suggestion!": request.body
   })
 });
 
