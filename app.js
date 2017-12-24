@@ -15,9 +15,6 @@ app.get('/class', function (req, res) {
 });
 
 
-
-
-
 app.listen(process.env.PORT || 3000, () => {
   console.log('Example app listening on port 3000!');
 });
@@ -35,26 +32,30 @@ function mergedPeakData(data, peakClass) {
 
 let mergedArray= mergedPeakData(data, peakClass);
 
-app.get('/merged', function (req, res) {
-  res.send(mergedArray);
+// working
+// app.get('/merged', function (req, res) {
+//   res.send(mergedArray);
+// });
+
+// new
+
+app.get('/merged', function(request, response) {
+    response.json(mergedArray);
 });
 
+let suggestions = [];
 
-console.log(mergedArray);
-// Returns:
-// [ { id: 1,
-//     attributes:
-//      { peak_name: 'Mt. Elbert',
-//        range: 'Sawatch Range',
-//        rank: '1',
-//        elevation: '14433',
-//        towns: 'Leadville, Twin Lakes, Aspen',
-//        latitude: '39.117777777777775',
-//        longitude: '-106.44472222222223' },
-//     new_attributes:
-//      { peak_name: 'Mt. Elbert',
-//        class: 1,
-//        standard_route: 'Northeast Ridge',
-//        roundtrip_distance: 10,
-//        difficulty: 'easiest' } },
-//        ...
+app.post('/suggestions', function(request, response) {
+  suggestions.push(request.body);
+  response.json({
+    "Success! Thank you for suggesting": request.body
+  })
+});
+
+app.get('/suggestions', function(request, response) {
+  response.json(suggestions);
+});
+
+module.exports = {
+  mergedPeakData
+}

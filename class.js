@@ -94,7 +94,7 @@ let peakClass = [{
     "class": 2,
     "standard_route": "West Ridge",
     "roundtrip_distance": 6,
-    "difficulty": "easier",
+    "difficulty": "moderate",
     "lengthOfHike": "shorter",
     "distance": "close",
     "link": "https://www.14ers.com/route.php?route=linc1&peak=Mt.+Lincoln"
@@ -356,7 +356,7 @@ let peakClass = [{
     "class": 3,
     "standard_route": "From Yankee Boy Basin",
     "roundtrip_distance": 6,
-    "difficulty": "moderate",
+    "difficulty": "hard",
     "lengthOfHike": "shorter",
     "distance": "far",
     "link": "https://www.14ers.com/route.php?route=snef1&peak=Mt.+Sneffels"
