@@ -1,7 +1,7 @@
 {
   "name": "backend-serverside",
   "version": "1.0.0",
-  "description": "",
+  "description": "Colorado 14ers Search Serverside Code",
   "main": "app.js",
   "scripts": {
     "test": "mocha",
@@ -11,7 +11,12 @@
   "author": "Bryan Long",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "cors": "^2.8.4",
     "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.3",
+    "mocha": "^4.0.1"
   }
 }

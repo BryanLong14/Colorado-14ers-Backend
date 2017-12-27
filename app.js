@@ -1,16 +1,18 @@
 const express = require('express');
 const cors = require('cors');
+const bodyParser = require('body-parser');
 const data = require("./data.js");
 const peakClass = require("./class.js");
 const app = express();
 
 app.use(cors());
+app.use(bodyParser.json());
 
-app.get('/data', function (req, res) {
+app.get('/data', function(req, res) {
   res.send(data);
 });
 
-app.get('/class', function (req, res) {
+app.get('/class', function(req, res) {
   res.send(peakClass);
 });
 
@@ -22,17 +24,17 @@ app.listen(process.env.PORT || 3000, () => {
 function mergedPeakData(data, peakClass) {
   let dataArray = Object.values(data)[0];
   let classArray = Object.values(peakClass)[0];
-  let mergedArray= [];
+  let mergedArray = [];
   dataArray.forEach(function(item, i) {
     mergedArray.push(Object.assign(item, classArray[i]))
   })
   return mergedArray;
 }
 
-let mergedArray= mergedPeakData(data, peakClass);
+let mergedArray = mergedPeakData(data, peakClass);
 
 app.get('/merged', function(request, response) {
-    response.json(mergedArray);
+  response.json(mergedArray);
 });
 
 let suggestions = [];
@@ -47,6 +49,9 @@ app.post('/suggestions', function(request, response) {
 app.get('/suggestions', function(request, response) {
   response.json(suggestions);
 });
+
+
+app.listen(process.env.PORT || 3000);
 
 module.exports = {
   mergedPeakData
