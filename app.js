@@ -51,7 +51,7 @@ app.get('/suggestions', function(request, response) {
 });
 
 
-app.listen(process.env.PORT || 3000);
+// app.listen(process.env.PORT || 3000);
 
 module.exports = {
   mergedPeakData
