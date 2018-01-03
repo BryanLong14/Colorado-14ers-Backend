@@ -42,16 +42,13 @@ let suggestions = [];
 app.post('/suggestions', function(request, response) {
   suggestions.push(request.body);
   response.json({
-    "Thanks for your comment or suggestion!": request.body
+    "Thanks for your comment or suggestion": request.body
   })
 });
 
 app.get('/suggestions', function(request, response) {
   response.json(suggestions);
 });
-
-
-// app.listen(process.env.PORT || 3000);
 
 module.exports = {
   mergedPeakData

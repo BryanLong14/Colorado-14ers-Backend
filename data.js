@@ -480,7 +480,7 @@ let data = [{
     "elevation": "14,047",
     "towns": "San Luis, Fort Garland, Alamosa, Trinidad",
     "latitude": "37.12222222222222",
-    "longitude": "-105.185"
+    "longitude": "-105.1855555555"
   }
 }, {
   "id": 45,
